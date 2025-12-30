@@ -1,0 +1,42 @@
+# Windows
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# VS Code
+.vscode/
+.history/
+
+# Node.js / npm (if used)
+node_modules/
+npm-debug.log
+yarn-error.log
+package-lock.json
+yarn.lock
+
+# Logs
+*.log
+
+# Mac (just in case)
+.DS_Store
+
+# Build / Dist folders (if you generate)
+dist/
+build/
+
+# Optional: Environment files
+.env
+.env.local
+.env.*.local
+
+# Optional: Coverage reports (if you run tests)
+coverage/
+
+# Optional: Temporary files
+*.tmp
+*.temp
+*.bak
+
+# Optional: IDE backups
+*.swp
+*.swo
