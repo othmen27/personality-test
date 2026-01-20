@@ -1,0 +1,73 @@
+{
+  "questions": {
+    "q1": {
+      "text": "I like to be dominated",
+      "weights": {
+        "dominant": 1
+      }
+    },
+    "q2": {
+      "text": "I like receiving pain",
+      "weights": {
+        "masochist": 1
+      }
+    },
+    "q3": {
+      "text": "I like making decisions",
+      "weights": {
+        "dominant": 1
+      }
+    },
+    "q4": {
+      "text": "I like forcing my partner into submission",
+      "weights": {
+        "dominant": 1,
+        "bratTamer": 1
+      }
+    },
+    "q5": {
+      "text": "I like receiving pain",
+      "weights": {
+        "masochist": 1
+      }
+    },
+    "q6": {
+      "text": "I like seeing the resault",
+      "weights": {
+        "masochist": 1
+      }
+    },
+    "q7": {
+      "text": "The idea of being sexually tortured is appealing",
+      "weights": {
+        "masochist": 1,
+        "edging": 1
+      }
+    },
+    "q8": {
+      "text": "I don't consider myself to be a kinky person",
+      "weights": {
+        "vanilla": 1
+      }
+    },
+    "q9": {
+      "text": "I have some outlandish unethical fantasies",
+      "weights": {
+        "vanilla": 1
+      }
+    },
+    "q10": {
+      "text": "I don't have any unique kinks",
+      "weights": {
+        "vanilla": 1
+      }
+    },
+    "q11": {
+      "text": "dfgdfggfd?",
+      "weights": {
+        "dominant": 2,
+        "submissive": 1
+      }
+    }
+  }
+}

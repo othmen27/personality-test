@@ -39,4 +39,8 @@ coverage/
 
 # Optional: IDE backups
 *.swp
+<<<<<<< HEAD
 *.swo
+=======
+*.swo
+>>>>>>> backup-admin-cli
