@@ -61,6 +61,13 @@
       "weights": {
         "vanilla": 1
       }
+    },
+    "q11": {
+      "text": "dfgdfggfd?",
+      "weights": {
+        "dominant": 2,
+        "submissive": 1
+      }
     }
   }
 }
